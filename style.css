@@ -1,0 +1,11 @@
+.form-2 > label > input {
+  display: block;
+}
+
+.form-2  textarea , button {
+  display: block;
+}
+
+.form-2 > input[type="button"] {
+  margin-top: 20px;
+}
